@@ -4,6 +4,6 @@ services:
     env: docker
     plan: free
     region: oregon
-    branch: main
+    branch: render-deploy
     dockerfilePath: ./Dockerfile
     autoDeploy: true
